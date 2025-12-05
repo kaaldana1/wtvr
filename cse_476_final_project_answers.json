@@ -13195,5 +13195,1505 @@
   },
   {
     "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def replace_last_element(list1, list2): list1[-1:] = list2; return list1}"
+  },
+  {
+    "output": "\\boxed{len(s)}"
+  },
+  {
+    "output": "\\boxed{16}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{The function is correct but the output format is not specified in the task.}}"
+  },
+  {
+    "output": "\\boxed{def find_intersection(arr1, arr2): return list(set(arr1) & set(arr2))}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{[element, element, ...]}"
+  },
+  {
+    "output": "\\boxed{(abs(z), round(math.atan2(z.imag, z.real), 6))}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{generate\\_combinations\\_with\\_repetition}}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{(b, a)}"
+  },
+  {
+    "output": "\\boxed{\\text{def maximize_tuples(tuple1, tuple2): return tuple1 if sum(tuple1) >= sum(tuple2) else tuple2}}"
+  },
+  {
+    "output": "\\boxed{1}"
+  },
+  {
+    "output": "\\boxed{\\text{elementwise\\_divide}}"
+  },
+  {
+    "output": "\\boxed{(lst[:L], lst[L:])}"
+  },
+  {
+    "output": "\\boxed{21}"
+  },
+  {
+    "output": "\\boxed{\\text{split\\_list}}"
+  },
+  {
+    "output": "\\boxed{4 \\times \\text{side\\_length}^2}"
+  },
+  {
+    "output": "\\boxed{\\sum_{k=1}^{n} (2k-1)^2}"
+  },
+  {
+    "output": "\\boxed{6n(n-1)+1}"
+  },
+  {
+    "output": "\\boxed{ord(char)}"
+  },
+  {
+    "output": "\\boxed{sum_even_positions_even_numbers}"
+  },
+  {
+    "output": "\\boxed{\\sum_{i=1}^{n} (2i)^5}"
+  },
+  {
+    "output": "\\boxed{[t[-1] for t in tuples_list]}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{sum\\_even\\_index\\_binomial\\_coefficients}}"
+  },
+  {
+    "output": "\\boxed{3.14}"
+  },
+  {
+    "output": "\\boxed{\\text{filter\\_dict\\_by\\_value}}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{n*(3*n - 1)}"
+  },
+  {
+    "output": "\\boxed{(True, 2)}"
+  },
+  {
+    "output": "\\boxed{\\text{True}}"
+  },
+  {
+    "output": "\\boxed{[x - y for x, y in zip(list1, list2)]}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{sum_of_squares_even}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{dp[n]}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\sqrt{a^2 + b^2}}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{sum_of_divisors}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{The provided function is correct and properly formatted.}}"
+  },
+  {
+    "output": "\\boxed{max_aggregate}"
+  },
+  {
+    "output": "\\boxed{\\left\\lfloor \\frac{2 \\cdot \\binom{2n}{n} - 1}{2} \\right\\rfloor}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def find_element_after_rotations(arr, index, rotations): return arr[(index - rotations) % len(arr)]}"
+  },
+  {
+    "output": "\\boxed{[word for word in words if word.startswith('p')]}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def max_of_two(a, b): return a if a > b else b}"
+  },
+  {
+    "output": "\\boxed{tuple(s)}"
+  },
+  {
+    "output": "\\boxed{def set_leftmost_unset_bit(n): return n | (n ^ (n + 1))}"
+  },
+  {
+    "output": "\\boxed{cone_volume}"
+  },
+  {
+    "output": "\\boxed{1 << (n - 1).bit_length() if n > 0 else 0}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{apply\\_format\\_to\\_list}}"
+  },
+  {
+    "output": "\\boxed{\\text{def convert_lists_to_nested_dict(lists): }\\\\ \\text{ nested\\_dict = {} }\\\\ \\text{ for i, lst in enumerate(lists): }\\\\ \\text{ nested\\_dict[i] = dict(enumerate(lst)) }\\\\ \\text{ return nested\\_dict}}"
+  },
+  {
+    "output": "\\boxed{67}"
+  },
+  {
+    "output": "\\boxed{\\text{def find\\_max\\_length\\_list(lists): return max(lists, key=lambda x: len(x)) if lists else []}}"
+  },
+  {
+    "output": "\\boxed{\\text{True}}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def xor_tuples(tuple1, tuple2): return tuple(a ^ b for a, b in zip(tuple1, tuple2))}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{Incorrect}}"
+  },
+  {
+    "output": "\\boxed{def find_min(a, b): return a if a < b else b}"
+  },
+  {
+    "output": "\\boxed{\\text{True}}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{-1}"
+  },
+  {
+    "output": "\\boxed{[nums1[i], nums2[j]]}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{def to_camel_case(snake_str): return snake_str.title().replace('_', '') if snake_str else snake_str}"
+  },
+  {
+    "output": "\\boxed{def remove_odd_numbers(lst): return [x for x in lst if x % 2 == 0]}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{max(max1 * max2, abs(min1 * min2))}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{def find_max_length_element(lst): return max(lst, key=lambda x: len(x)) if lst else None}"
+  },
+  {
+    "output": "\\boxed{12}"
+  },
+  {
+    "output": "\\boxed{sum((2*i)**3 for i in range(1, n+1))}"
+  },
+  {
+    "output": "\\boxed{def concatenate_tuple_elements(tup, delimiter): return delimiter.join(map(str, tup))}"
+  },
+  {
+    "output": "\\boxed{\\frac{\\sum_{k=1}^{n} k^3}{n}}"
+  },
+  {
+    "output": "\\boxed{def extract_rear_elements(input_tuple): return tuple(s[-1] if s else '' for s in input_tuple)}"
+  },
+  {
+    "output": "\\boxed{count_sublists_with_element}"
+  },
+  {
+    "output": "\\boxed{filter_odd_numbers}"
+  },
+  {
+    "output": "\\boxed{\"23-04-2023\"}"
+  },
+  {
+    "output": "\\boxed{def shell_sort(arr): n = len(arr); gap = n // 2; while gap > 0: for i in range(gap, n): temp = arr[i]; j = i; while j >= gap and arr[j - gap] > temp: arr[j] = arr[j - gap]; j -= gap; arr[j] = temp; gap //= 2; return arr}"
+  },
+  {
+    "output": "\\boxed{(\\text{tuple1\\_elementwise\\_and}, \\text{tuples\\_list})}"
+  },
+  {
+    "output": "\\boxed{directrix_of_parabola}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{True}}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def find_negative_numbers(numbers): return [num for num in numbers if num < 0]}"
+  },
+  {
+    "output": "\\boxed{def remove_odd_characters(s): return s[::2]}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def join_integers_to_single_integer(list_of_integers): return int(''.join(map(str, list_of_integers)))}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{6 \\times n^2}"
+  },
+  {
+    "output": "\\boxed{\\frac{positive\\_count}{total}}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{\\text{The provided answer is correct and follows the required format.}}"
+  },
+  {
+    "output": "\\boxed{tuple(x * y for x, y in zip(tuple1, tuple2))}"
+  },
+  {
+    "output": "\\boxed{count_elements_in_tuple}"
+  },
+  {
+    "output": "\\boxed{[x**3 for x in lst]}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{def extract_strings(strings, size): return [s for s in strings if len(s) == size]}"
+  },
+  {
+    "output": "\\boxed{def remove_whitespaces(s): return s.replace(\" \", \"\")}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{sum_even_factors}"
+  },
+  {
+    "output": "\\boxed{def contains_z(word): return 'z' in word}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{def reverse_strings(lst): return [s[::-1] for s in lst]}"
+  },
+  {
+    "output": "\\boxed{[sublist for sublist in list_of_lists if len(sublist) == min(len(sublist) for sublist in list_of_lists)]}"
+  },
+  {
+    "output": "\\boxed{length \\times width}"
+  },
+  {
+    "output": "\\boxed{def remove_uppercase_substrings(s): return ''.join(char for char in s if not char.isupper())}"
+  },
+  {
+    "output": "\\boxed{def get_first_elements(list_of_lists): return [sublist[0] for sublist in list_of_lists]}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{The function is correct and follows the required format.}}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{\\text{drop\\_empty\\_items}}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{(5, 7, 9)}"
+  },
+  {
+    "output": "\\boxed{product_modulo}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{tuple_intersection}"
+  },
+  {
+    "output": "\\boxed{def replace_characters(s, old, new): return s.replace(old, new)}"
+  },
+  {
+    "output": "\\boxed{\\text{sort\\_dict\\_by\\_value}}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def convert_to_lowercase(s): return s.lower()}"
+  },
+  {
+    "output": "\\boxed{def remove_lowercase_substrings(s): return ''.join(char for char in s if not char.islower())}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def filter_odd_numbers(numbers): return [num for num in numbers if num % 2 != 0]}"
+  },
+  {
+    "output": "\\boxed{difference}"
+  },
+  {
+    "output": "\\boxed{count_odd_xor_pairs}"
+  },
+  {
+    "output": "\\boxed{\\text{def toggle\\_case(s): return s.swapcase()}}"
+  },
+  {
+    "output": "\\boxed{sum_per_digit_difference}"
+  },
+  {
+    "output": "\\boxed{15}"
+  },
+  {
+    "output": "\\boxed{def tuple_union_sorted(tuple1, tuple2): return sorted(tuple(set(tuple1 + tuple2)))}"
+  },
+  {
+    "output": "\\boxed{def longest_sublist_length(list_of_lists): return max(len(sublist) for sublist in list_of_lists) if list_of_lists else 0}"
+  },
+  {
+    "output": "\\boxed{def extract_quoted_values(s): result = [] i = 0 while i < len(s): if s[i] == '\"': j = i + 1 while j < len(s) and s[j] != '\"': j += 1 if j < len(s): result.append(s[i+1:j]) i = j + 1 else: i += 1 return result}"
+  },
+  {
+    "output": "\\boxed{\\frac{n(n-1)}{2}}"
+  },
+  {
+    "output": "\\boxed{\\text{split_string_into_characters}(s)}"
+  },
+  {
+    "output": "\\boxed{sum_of_digits}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{\\text{create\\_empty\\_dicts}(n)}"
+  },
+  {
+    "output": "\\boxed{\\text{def sort_sublists(list_of_lists): return [sorted(sublist) for sublist in list_of_lists]}}"
+  },
+  {
+    "output": "\\boxed{def remove_duplicates_from_lists(lists): return [list(set(lst)) for lst in lists]}"
+  },
+  {
+    "output": "\\boxed{12}"
+  },
+  {
+    "output": "\\boxed{2 \\pi r (r + h)}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{\\text{def interleave_three_lists(list1, list2, list3): return [item for triplet in zip(list1, list2, list3) for item in triplet]}}"
+  },
+  {
+    "output": "\\boxed{tuple(set(tuple1) - set(tuple2)) + tuple(set(tuple2) - set(tuple1))}"
+  },
+  {
+    "output": "\\boxed{def remove_uneven_elements(t): if not t: return (); if isinstance(t, tuple): return tuple(remove_uneven_elements(x) for x in t); return t if t % 2 == 0 else ()}"
+  },
+  {
+    "output": "\\boxed{4 \\cdot \\text{base\\_edge} \\cdot \\sqrt{\\text{height}^2 + (\\text{base\\_edge}/2)^2} + \\text{base\\_edge}^2}"
+  },
+  {
+    "output": "\\boxed{\\text{True}}"
+  },
+  {
+    "output": "\\boxed{1}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{def find_most_expensive_items(dataset, n):\\\\n    sorted_items = sorted(dataset, key=lambda x: x['price'], reverse=True)\\\\n    return sorted_items[:n]}"
+  },
+  {
+    "output": "\\boxed{def split_and_add(lst, n): return lst[n:] + lst[:n]}"
+  },
+  {
+    "output": "\\boxed{def convert_list_to_tuple(input_list): return tuple(input_list)}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{[i for i in range(start, end + 1) if int(i**0.5)**2 == i]}"
+  },
+  {
+    "output": "\\boxed{(r \\cos(\\theta), r \\sin(\\theta))}"
+  },
+  {
+    "output": "def interchange_first_last(lst): if len(lst) <= 1: return lst return [lst[-1]] + lst[1:-1] + [lst[0]]"
+  },
+  {
+    "output": "\\boxed{10}"
+  },
+  {
+    "output": "\\boxed{def remove_leading_zeroes(ip_address):\\\\n    parts = ip_address.split('.')\\\\n    cleaned_parts = [part.lstrip('0') for part in parts]\\\\n    return '.'.join(cleaned_parts)}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{40 + 16 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8 + 8"
+  },
+  {
+    "output": "\\boxed{arr1[i-1] if i > 0 else arr2[j-1]}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{(sum_n, average)}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{[i for i in range(1, n+1) if all(i % d != 0 for d in range(2, int(i**0.5)+1))]}"
+  },
+  {
+    "output": "\\boxed{' '.join(s.split()[::-1])}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{\\text{def degrees\\_to\\_radians(degrees): return degrees * (3.141592653589793 / 180)}}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{1}"
+  },
+  {
+    "output": "\\boxed{def remove_kth_element(lst, k): return lst[:k] + lst[k+1:]}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{extract\\_elements}}"
+  },
+  {
+    "output": "\\boxed{15}"
+  },
+  {
+    "output": "\\boxed{[round(sum(t)/len(t), 2) for t in tuples]}"
+  },
+  {
+    "output": "\\boxed{def element_wise_modulo(tuple1, tuple2): return tuple((a % b) for a, b in zip(tuple1, tuple2))}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{[round(list1[i]/list2[i], 2) for i in range(min(len(list1), len(list2)))]}"
+  },
+  {
+    "output": "\\boxed{''.join([c for c in s if not c.isdigit()]) + ''.join([c for c in s if c.isdigit()])}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{[round(num ** n, 2) for num in numbers]}"
+  },
+  {
+    "output": "\\boxed{\\text{to_uppercase}(s): \\text{return } s.\\text{upper}()}"
+  },
+  {
+    "output": "\\boxed{def interchange_first_last(lst): if len(lst) <= 1: return lst return [lst[-1]] + lst[1:-1] + [lst[0]]}"
+  },
+  {
+    "output": "\\boxed{1.5 \\cdot r^2}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def replace_spaces(s): return s.replace(' ', '%20')}"
+  },
+  {
+    "output": "\\boxed{[num for num in numbers if num % 2 == 0]}"
+  },
+  {
+    "output": "\\boxed{[(x+1, y), (x-1, y), (x, y+1), (x, y-1)]}"
+  },
+  {
+    "output": "\\boxed{def replace_whitespace(s): return s.replace(' ', '_').replace('_', ' ', 1)}"
+  },
+  {
+    "output": "\\boxed{def move_zeroes_to_end(nums): return [x for x in nums if x != 0] + [x for x in nums if x == 0]}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{def sort_list(input_list): return sorted(input_list)}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def remove_parentheses(s): result = \"\"; i = 0; while i < len(s): if s[i] == '(': while i < len(s) and s[i] != ')': i += 1; i += 1; else: result += s[i]; i += 1; return result}"
+  },
+  {
+    "output": "\\boxed{n * (3 * n - 1) // 2}"
+  },
+  {
+    "output": "\\boxed{def contains_z_except_edges(s): return any('z' == char and (i > 0 and i < len(s)-1) for i, char in enumerate(s))}"
+  },
+  {
+    "output": "\\boxed{def reverse_array_up_to_position(arr, position): return arr[:position][::-1] + arr[position:]}"
+  },
+  {
+    "output": "\\boxed{def add_dict_to_tuple(tup, d): return tup + (d,)}"
+  },
+  {
+    "output": "\\boxed{7.99}"
+  },
+  {
+    "output": "\\boxed{\\text{filter_students}}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{48}"
+  },
+  {
+    "output": "\\boxed{\"\"}"
+  },
+  {
+    "output": "\\boxed{\\text{def multiply_consecutive(t): return tuple(t[i] * t[i+1] for i in range(len(t)-1))}}"
+  },
+  {
+    "output": "\\boxed{def add_lists(list1, list2): return [x + y for x, y in zip(list1, list2)]}"
+  },
+  {
+    "output": "\\boxed{\\text{remove\\_consecutive\\_duplicates}}"
+  },
+  {
+    "output": "\\boxed{3.1416 \\cdot r \\cdot \\sqrt{r^2 + h^2}}"
+  },
+  {
+    "output": "\\boxed{def replace_chars(s): return s.replace(' ', ':').replace(',', ':').replace('.', ':')}"
+  },
+  {
+    "output": "\\boxed{-1}"
+  },
+  {
+    "output": "\\boxed{12}"
+  },
+  {
+    "output": "\\boxed{def toggle_middle_bits(n): \\n    return n ^ ( (1 << (n.bit_length() - 1)) - 1 )}"
+  },
+  {
+    "output": "\\boxed{def bisect_left(arr, val): low = 0; high = len(arr); while low < high: mid = (low + high) // 2; if arr[mid] < val: low = mid + 1; else: high = mid; return low}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{\\frac{1}{2^{n-1}} + \\frac{1}{2^{n-2}} + \\cdots + \\frac{1}{2^1} + 1}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "def tuple_to_dict(t): return dict((t[i], t[i+1]) for i in range(len(t)-1))"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{def right_rotate_list(lst, n): return lst[-n:] + lst[:-n] if n > 0 else lst}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{find_divisible_numbers}"
+  },
+  {
+    "output": "\\boxed{\\frac{1}{2} \\cdot r^2 \\cdot \\theta}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{def add_spaces(s): return ''.join(f' {c}' if c.isupper() else c for c in s)}"
+  },
+  {
+    "output": "\\boxed{def sort_numeric_strings(lst): return sorted(lst, key=lambda x: float(x))}"
+  },
+  {
+    "output": "def add_tuple_to_list(lst, tpl): return lst + list(tpl)"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{def find_min_k_records(test_list, k): return sorted(test_list, key=lambda x: x[1])[:k] if k <= len(test_list) else \"k is larger than the list length\"}"
+  },
+  {
+    "output": "\\boxed{[]}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{ab+}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{\\text{count_lists_in_list(input_list)}}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{n + \\frac{n(n - 1)}{2} + 1}"
+  },
+  {
+    "output": "\\boxed{\\text{def consecutive_pairs(lst): return [ (lst[i], lst[i+1]) for i in range(len(lst)-1) ]}}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{list_difference}"
+  },
+  {
+    "output": "\\boxed{\\sum_{k=1}^{n} (2k-1)^4}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{def remove_words_of_length_k(s, k):\\\\n    words = s.split()\\\\n    filtered_words = [word for word in words if len(word) != k]\\\\n    return ' '.join(filtered_words)}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{[\\boxed{"
+  },
+  {
+    "output": "\\boxed{\\text{count_lists_as_tuples}}"
+  },
+  {
+    "output": "\\boxed{def find_combinations_sum(tuple_list, target_sum): result = [] for i in range(len(tuple_list)): for j in range(i + 1, len(tuple_list)): if sum(tuple_list[i]) + sum(tuple_list[j]) == target_sum: result.append((tuple_list[i], tuple_list[j])) return result}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{123}"
+  },
+  {
+    "output": "\\boxed{def rgb_to_hsv(r, g, b): r, g, b = r/255.0, g/255.0, b/255.0; max_c = max(r, g, b); min_c = min(r, g, b); delta = max_c - min_c; h = 0 if delta == 0 else ((g - b)/delta) % 6 if max_c == r else ((b - r)/delta) % 6 if max_c == g else ((r - g)/delta) % 6; s"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{def convert_tuple_string_to_int_tuple(input_str): return tuple(map(int, input_str.split(','}))}"
+  },
+  {
+    "output": "\\boxed{5}"
+  },
+  {
+    "output": "\\boxed{abbb}"
+  },
+  {
+    "output": "\\boxed{tuple(s + str(lst))}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{def remove_tuples_from_tuple(input_tuple): return tuple(item for item in input_tuple if not isinstance(item, tuple))}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{def last_position(arr, target):\\\\n    low = 0\\\\n    high = len(arr) - 1\\\\n    result = -1\\\\n    while low <= high:\\\\n        mid = (low + high) // 2\\\\n        if arr[mid] == target:\\\\n            result = mid\\\\n            low = mid + 1\\\\n        elif arr[mid] < target:\\\\n            low = mid + 1\\\\n        else:\\\\n            high = mid - 1\\\\n    return result}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "sum_dict_values"
+  },
+  {
+    "output": "\\boxed{sum_odd_numbers(l, r)}"
+  },
+  {
+    "output": "\\boxed{sum_array}"
+  },
+  {
+    "output": "\\boxed{def rotate_left(n, d): d = d % 32; return (n << d) | (n >> (32 - d)) & 0xFFFFFFFF}"
+  },
+  {
+    "output": "\\boxed{def remove_whitespaces(s): return s.replace(\" \", \"\")}"
+  },
+  {
+    "output": "\\boxed{3}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{True}"
+  },
+  {
+    "output": "\\boxed{highest_sum_list}"
+  },
+  {
+    "output": "\\boxed{0}"
+  },
+  {
+    "output": "\\boxed{None}"
+  },
+  {
+    "output": "\\boxed{False}"
+  },
+  {
+    "output": "\\boxed{\\text{True}}"
+  },
+  {
+    "output": "\\dfrac{133"
+  },
+  {
+    "output": "950"
+  },
+  {
+    "output": "600"
+  },
+  {
+    "output": "2280"
+  },
+  {
+    "output": "120"
+  },
+  {
+    "output": "600"
+  },
+  {
+    "output": "84"
+  },
+  {
+    "output": "23"
+  },
+  {
+    "output": "750"
+  },
+  {
+    "output": "113"
+  },
+  {
+    "output": "15"
+  },
+  {
+    "output": "136"
+  },
+  {
+    "output": "156"
+  },
+  {
+    "output": "999"
+  },
+  {
+    "output": "1"
+  },
+  {
+    "output": "138"
+  },
+  {
+    "output": "55728"
+  },
+  {
+    "output": "657"
+  },
+  {
+    "output": "23"
+  },
+  {
+    "output": "127"
+  },
+  {
+    "output": "2"
+  },
+  {
+    "output": "134"
+  },
+  {
+    "output": "516"
+  },
+  {
+    "output": "1000"
+  },
+  {
+    "output": "70"
+  },
+  {
+    "output": "81"
+  },
+  {
+    "output": "0"
+  },
+  {
+    "output": "13"
+  },
+  {
+    "output": "1997"
+  },
+  {
+    "output": "\\boxed{987}"
+  },
+  {
+    "output": "200"
+  },
+  {
+    "output": "267"
+  },
+  {
+    "output": "1680"
+  },
+  {
+    "output": "1000"
+  },
+  {
+    "output": "13"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "264"
+  },
+  {
+    "output": "\\boxed{116}"
+  },
+  {
+    "output": "139"
+  },
+  {
+    "output": "100"
+  },
+  {
+    "output": "26"
+  },
+  {
+    "output": "3375"
+  },
+  {
+    "output": "\\dfrac{14583333333333333"
+  },
+  {
+    "output": "61917364224"
+  },
+  {
+    "output": "47"
+  },
+  {
+    "output": "56"
+  },
+  {
+    "output": "125"
+  },
+  {
+    "output": "16"
+  },
+  {
+    "output": "\\dfrac{24"
+  },
+  {
+    "output": "65"
+  },
+  {
+    "output": "$\\boxed{11}$"
+  },
+  {
+    "output": "100"
+  },
+  {
+    "output": "11"
+  },
+  {
+    "output": "2001"
+  },
+  {
+    "output": "144"
+  },
+  {
+    "output": "\\dfrac{240"
+  },
+  {
+    "output": "210"
+  },
+  {
+    "output": "384"
+  },
+  {
+    "output": "139"
+  },
+  {
+    "output": "3"
+  },
+  {
+    "output": "1260"
+  },
+  {
+    "output": "0"
+  },
+  {
+    "output": "512"
+  },
+  {
+    "output": "120"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "720"
+  },
+  {
+    "output": "15"
+  },
+  {
+    "output": "146"
+  },
+  {
+    "output": "6"
+  },
+  {
+    "output": "134"
+  },
+  {
+    "output": "1001"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "676"
+  },
+  {
+    "output": "1095"
+  },
+  {
+    "output": "96"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "66"
+  },
+  {
+    "output": "\\boxed{164}"
+  },
+  {
+    "output": "\\boxed{246}"
+  },
+  {
+    "output": "26"
+  },
+  {
+    "output": "766"
+  },
+  {
+    "output": "764"
+  },
+  {
+    "output": "1200"
+  },
+  {
+    "output": "60"
+  },
+  {
+    "output": "6"
+  },
+  {
+    "output": "130"
+  },
+  {
+    "output": "54"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "\\boxed{625}"
+  },
+  {
+    "output": "\\dfrac{1"
+  },
+  {
+    "output": "100.00"
+  },
+  {
+    "output": "\\boxed{-11}"
+  },
+  {
+    "output": "106"
+  },
+  {
+    "output": "40"
+  },
+  {
+    "output": "16"
+  },
+  {
+    "output": "357"
+  },
+  {
+    "output": "444"
+  },
+  {
+    "output": "$\\boxed{13}$"
+  },
+  {
+    "output": "100"
+  },
+  {
+    "output": "\\boxed{4611686018427387904}"
+  },
+  {
+    "output": "17"
+  },
+  {
+    "output": "10000"
+  },
+  {
+    "output": "24"
+  },
+  {
+    "output": "100"
+  },
+  {
+    "output": "250"
+  },
+  {
+    "output": "199"
+  },
+  {
+    "output": "48"
+  },
+  {
+    "output": "30"
+  },
+  {
+    "output": "1950"
+  },
+  {
+    "output": "226"
+  },
+  {
+    "output": "120"
+  },
+  {
+    "output": "\\dfrac{15"
+  },
+  {
+    "output": "2004"
+  },
+  {
+    "output": "1002"
+  },
+  {
+    "output": "0"
+  },
+  {
+    "output": "14"
+  },
+  {
+    "output": "\\boxed{1000000}"
+  },
+  {
+    "output": "\\boxed{11}"
+  },
+  {
+    "output": "2004"
+  },
+  {
+    "output": "120"
+  },
+  {
+    "output": "$\\boxed{121}$"
+  },
+  {
+    "output": "55"
+  },
+  {
+    "output": "65"
+  },
+  {
+    "output": "114"
+  },
+  {
+    "output": "236"
+  },
+  {
+    "output": "144"
+  },
+  {
+    "output": "12"
+  },
+  {
+    "output": "58"
+  },
+  {
+    "output": "23"
+  },
+  {
+    "output": "125"
+  },
+  {
+    "output": "23"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "1004"
+  },
+  {
+    "output": "1200"
+  },
+  {
+    "output": "110"
+  },
+  {
+    "output": "217"
+  },
+  {
+    "output": "37"
+  },
+  {
+    "output": "338"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "620"
+  },
+  {
+    "output": "\\boxed{192}"
+  },
+  {
+    "output": "160"
+  },
+  {
+    "output": "5752"
+  },
+  {
+    "output": "150"
+  },
+  {
+    "output": "999"
+  },
+  {
+    "output": "568"
+  },
+  {
+    "output": "\\frac{13"
+  },
+  {
+    "output": "17"
+  },
+  {
+    "output": "\\dfrac{240"
+  },
+  {
+    "output": "361"
+  },
+  {
+    "output": "$\\boxed{660}$"
+  },
+  {
+    "output": "136"
+  },
+  {
+    "output": "13"
+  },
+  {
+    "output": "0"
+  },
+  {
+    "output": "120"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "133"
+  },
+  {
+    "output": "36"
+  },
+  {
+    "output": "138"
+  },
+  {
+    "output": "\\boxed{100}"
+  },
+  {
+    "output": "\\boxed{19}"
+  },
+  {
+    "output": "333"
+  },
+  {
+    "output": "30"
+  },
+  {
+    "output": "1170"
+  },
+  {
+    "output": "$\\boxed{33355888068859124}$"
+  },
+  {
+    "output": "36"
+  },
+  {
+    "output": "648"
+  },
+  {
+    "output": "325"
+  },
+  {
+    "output": "2023"
+  },
+  {
+    "output": "\\boxed{637}"
+  },
+  {
+    "output": "4096"
+  },
+  {
+    "output": "120"
+  },
+  {
+    "output": "144"
+  },
+  {
+    "output": "7"
+  },
+  {
+    "output": "\\dfrac{499"
+  },
+  {
+    "output": "67"
+  },
+  {
+    "output": "135"
+  },
+  {
+    "output": "116"
+  },
+  {
+    "output": "0"
+  },
+  {
+    "output": "200"
+  },
+  {
+    "output": "$\\boxed{127}$"
+  },
+  {
+    "output": "300"
+  },
+  {
+    "output": "12"
+  },
+  {
+    "output": "61"
+  },
+  {
+    "output": "110"
+  },
+  {
+    "output": "46"
+  },
+  {
+    "output": "11"
+  },
+  {
+    "output": "$\\boxed{150}$"
+  },
+  {
+    "output": "14400"
+  },
+  {
+    "output": "2025"
   }
 ]
